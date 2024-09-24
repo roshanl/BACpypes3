@@ -30,7 +30,7 @@ settings = Settings(
     debug_file="",
     max_bytes=1048576,
     backup_count=5,
-    route_aware=False,
+    route_aware=True,
     cov_lifetime=60,
 )
 
